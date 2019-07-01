@@ -1,3 +1,12 @@
+/**********************************************************************************************
+ * Arduino HoverboardAPI Library - Version 0.0.1
+ * Arduino PID Library - Version 0.0.1
+ * by Beat at fixme.ch and Philipp hacknology.de
+ *
+ *Edited by ATC1441 atcnetz.de
+ * This Library is licensed under a GPLv3 License
+ **********************************************************************************************/
+
 #include "Arduino.h"
 #include "HoverboardAPI.h"
 #include "protocol.h"
